@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/huuthien99/interview-decentralab/static/css/main.807a2434.css",
+    "main.js": "/huuthien99/interview-decentralab/static/js/main.53ff13e4.js",
+    "static/js/453.5bf40bb7.chunk.js": "/huuthien99/interview-decentralab/static/js/453.5bf40bb7.chunk.js",
+    "static/media/group.png": "/huuthien99/interview-decentralab/static/media/group.2f295abe80beafd1a85b.png",
+    "index.html": "/huuthien99/interview-decentralab/index.html",
+    "main.807a2434.css.map": "/huuthien99/interview-decentralab/static/css/main.807a2434.css.map",
+    "main.53ff13e4.js.map": "/huuthien99/interview-decentralab/static/js/main.53ff13e4.js.map",
+    "453.5bf40bb7.chunk.js.map": "/huuthien99/interview-decentralab/static/js/453.5bf40bb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.807a2434.css",
+    "static/js/main.53ff13e4.js"
+  ]
+}
