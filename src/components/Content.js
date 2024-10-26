@@ -37,7 +37,7 @@ function Content() {
   return (
     <>
       <BoxCommon icon={<IcLamp />} title="How It Works?">
-        <div className="grid grid-cols-4 gap-2">
+        <div className="grid gap-2 grid-cols-1 sm:grid-cols-2  lg:grid-cols-4">
           {listCart.map((val, index) => (
             <div className="min-h-[206px]" key={index}>
               <Cart item={val} />

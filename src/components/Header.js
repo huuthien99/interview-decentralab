@@ -11,13 +11,13 @@ function Header() {
         borderBottom: "1px solid #313856",
         backdropFilter: "blur(5.617943286895752px)",
       }}
-      className="h-[280px] flex items-center pl-10 pr-12 justify-between mb-4"
+      className="h-[280px] mb-4 flex items-center px-10 justify-center md:justify-between"
     >
-      <div className="w-[440px] flex flex-col gap-3">
+      <div className="w-[100%] flex flex-col gap-3 justify-center items-center md:items-start md:justify-start md:w-[440px] ">
         <h1 className="text-[24px] leading-7 font-bold">
           Unlock Rewards with the Copin Referral Program
         </h1>
-        <p className="text-[13px] text-[#C0C0C9] leading-6">
+        <p className="text-[13px] text-[#C0C0C9] leading-6 text-center md:text-left">
           Earn rebates and commissions by inviting friends. Grow your network
           and benefit from our 6-tier reward system.
         </p>
@@ -26,7 +26,7 @@ function Header() {
           <IconArrowRight />
         </div>
       </div>
-      <div>
+      <div className="hidden md:block w-[378px]">
         <img alt="" src={Image} width={378} style={{ objectFit: "cover" }} />
       </div>
     </div>
