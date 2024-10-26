@@ -13,7 +13,7 @@ function Header() {
       }}
       className="h-[280px] mb-4 flex items-center px-10 justify-center md:justify-between"
     >
-      <div className="w-[100%] flex flex-col gap-3 justify-center items-center md:items-start md:justify-start md:w-[440px] ">
+      <div className="w-[100%] flex flex-col gap-3 justify-center items-center text-center md:text-left md:items-start md:justify-start md:w-[440px] ">
         <h1 className="text-[24px] leading-7 font-bold">
           Unlock Rewards with the Copin Referral Program
         </h1>
